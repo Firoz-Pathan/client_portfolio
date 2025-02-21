@@ -11,7 +11,6 @@ This is a **modern and responsive portfolio website** built with **Next.js, Type
 - ✅ **Dark Mode Support** – Clean and modern UI with dark mode
 - ✅ **Optimized Performance** – Fast loading and SEO-friendly
 - ✅ **Contact Form** – Allows direct communication via email
-- ✅ **Deployed on Vercel** – Efficient deployment for production-ready performance
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js (React), TypeScript, Tailwind CSS
